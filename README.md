@@ -105,5 +105,4 @@ Welcome to my professional portfolio! I am a cybersecurity specialist with exper
 
 ---
 
-## 📄 [View My Resume](#) | [LinkedIn](#)
 

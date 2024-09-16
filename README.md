@@ -1,4 +1,4 @@
-## Hi, I'm Jinjia Liu.
+
 Welcome to my professional portfolio! I am a cybersecurity specialist with experience in vulnerability assessments, incident response, and risk management. Below you will find an overview of key projects that I worked on during my cybersecurity bootcamp.
 
 ---

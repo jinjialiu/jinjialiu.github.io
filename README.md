@@ -1,5 +1,5 @@
 ### Welcome to my cybersecurity professional portfolio! 
-### You will find an overview of key projects that I worked on during my cybersecurity bootcamp.
+#### You will find an overview of key projects that I worked on during my cybersecurity bootcamp.
 
 ---
 

@@ -1,9 +1,18 @@
-# Hi, I'm Jinjia Liu. 👋
+## Hi, I'm Jinjia Liu. 👋
 Welcome to my professional portfolio! I am a cybersecurity and network specialist with experience in vulnerability assessments, incident response, and risk management. Below you will find an overview of key projects that I worked on during my cybersecurity bootcamp.
 
 ---
 
-## 🔐 Featured Projects
+## Technologies & Skills
+- **Network Security**: Wireshark, Nmap/Zenmap, Vulnerability Assessments
+- **Operating Systems**: Linux (Ubuntu, Kali), Windows Server, Windows 10
+- **Programming & Scripting**: Python, Bash, PowerShell
+- **Risk Management**: ISO 27001, NIST Risk Frameworks
+- **Incident Response**: Phishing Attack Playbooks, Incident Detection, Log Monitoring
+
+---
+
+## Featured Projects
 
 ### 1. **Network Administration and Security Documentation**
 - **Description**: This project involved using Wireshark and Zenmap to collect detailed information about network devices to improve the security posture through network segmentation.
@@ -93,15 +102,6 @@ Welcome to my professional portfolio! I am a cybersecurity and network specialis
 - **Description**: Created a detailed incident response report for Premium House Lights Inc., focusing on containment, remediation, and post-incident recommendations to prevent further breaches.
 - **Tools Used**: Forensic Analysis Tools, Incident Response Plan, Security Monitoring Tools
 - **Details**: [View Report](#) | [GitHub Repository](#)
-
----
-
-## 🔧 Technologies & Skills
-- **Network Security**: Wireshark, Nmap/Zenmap, Vulnerability Assessments
-- **Operating Systems**: Linux (Ubuntu, Kali), Windows Server, Windows 10
-- **Programming & Scripting**: Python, Bash, PowerShell
-- **Risk Management**: ISO 27001, NIST Risk Frameworks
-- **Incident Response**: Phishing Attack Playbooks, Incident Detection, Log Monitoring
 
 ---
 

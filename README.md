@@ -17,7 +17,7 @@ Welcome to my professional portfolio! I am a cybersecurity specialist with exper
 ### **Network Administration and Security Documentation**
 **Description**: This project involved using Wireshark and Zenmap to collect detailed information about network devices to improve the security posture through network segmentation.
 **Tools Used**: Wireshark, Zenmap, Windows Server, Linux, Kali Linux
-**Details**: <a href="[https://yourprojectlink.com](https://docs.google.com/document/d/14yOW7qD_jx_-VHTOyNqxfktRtXvhcZrqls_rW8CaOGk/edit#heading=h.10llxii5cbzj)" target="_blank">View Project</a>
+**Details**: <a href="https://docs.google.com/document/d/14yOW7qD_jx_-VHTOyNqxfktRtXvhcZrqls_rW8CaOGk/edit#heading=h.10llxii5cbzj" target="_blank">View Project</a>
 
 ---
 
